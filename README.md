@@ -43,7 +43,7 @@ There are two sections:
 Each rule in list tested in order. First matched rule is used to update
 options values from 'default' section of config.
 
-Example `config.yml` for redirecting email to two channels: `#monit` and `#cron`:
+Example `config.yml` for redirecting email to two channels: `#monitoring` and `#cron`:
 ```yaml
 # default values for channel, bot name, avatar url, mattermost token and debug mode
 default:
